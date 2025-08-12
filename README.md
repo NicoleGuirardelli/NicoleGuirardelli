@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**NicoleGuirardelli/NicoleGuirardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img display:inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleGuirardelli&layout=donut&theme=highcontrast&hide_border=true&langs_count=8"/>
+</div>
+<br><br>
+<div align="center">  
 
-Here are some ideas to get you started:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
+  <br>
+ 
+  <br>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/nicole-duarte-guirardelli-78a22737a/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/>        
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+  
