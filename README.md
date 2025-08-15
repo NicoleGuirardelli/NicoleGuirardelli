@@ -21,7 +21,30 @@
 ### 🚀 Sobre mim
 - 🎓 Estudante do 1° ano de Ciência da Computação
 - 💻 Apaixonada por programação e tecnologia
-- 📚 Atualmente aprendendo Java, HTML, CSS e Python
+- 📚 Atualmente aprendendo: 
+  
+<!--## <div align="center"-->
+
+
+  <p>
+    <img src="icons8-java-50.svg" width="50px" /> <code>public class Nicole { }</code>
+  </p>
+
+  <p>
+    <img src="icons8-html-5-50.svg" width="50px" /> <code>&lt;!DOCTYPE html&gt;</code>
+  </p>
+
+  <p>
+    <img src="icons8-css3-50.svg" width="50px" /> <code>body { background: #fff; }</code>
+  </p>
+
+  <p>
+    <img src="icons8-python-50.svg" width="50px" /> <code>print("Olá, GitHub!")</code>
+  </p>
+
+<!--##</div> -->
+
+
 
 ---
 
@@ -33,26 +56,21 @@
 
 ---
 
-### 🎯 Contador de visitantes
+<!--### 🎯 Visitantes
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicoleGuirardelli&label=Visitantes&color=ff69b4&style=flat" alt="Contador de visitas" />
 </p>
-
+-->
 ---
 
-### 🎮 Um joguinho no rodapé 😏
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-  <img display:inline-block src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleGuirardelli&layout=donut&theme=highcontrast&hide_border=true&langs_count=8"/>
-</div>
-<br><br>
-<div align="center">  
+  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
-  <br>
+ 
  
   <br>
   <div align="center">
@@ -62,9 +80,12 @@
 <div align="center">
 
   
-          
 
-<img src="https://raw.githubusercontent.com/NicoleGuirardelli/NicoleGuirardelli/main/pageinternetGIF-ezgif.com-loop-count.gif" width="500px" />
+  
+  
+</div>
+
+
 
 </div>
 ---
