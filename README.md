@@ -1,7 +1,7 @@
 <!--## Oii! Eu sou Nicole Guirardelli-->
 
 
-<!--💻 1° ano de Ciência da Computação -->
+<!--💻 2° ano de Ciência da Computação -->
 <div align="center">
   <h1>
   <a href="https://git.io/typing-svg">
