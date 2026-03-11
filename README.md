@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudante do 1° ano de Ciência da Computação na Unifil
+- 🎓 Estudante do 2° ano de Ciência da Computação na Unifil
 - 💻 Apaixonada por programação e tecnologia
 - 📚 Atualmente aprendendo: 
   
